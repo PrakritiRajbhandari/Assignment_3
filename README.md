@@ -7,4 +7,4 @@ This is a Secure Password generator
 
 Deployed application link: https://prakritirajbhandari.github.io/Assignment_3/.
 
-![Alt text](./Screenshots/gnerate.jpg?raw=true "Optional Title")
+![Alt text](./Screenshots/generate.jpg?raw=true "Optional Title")
