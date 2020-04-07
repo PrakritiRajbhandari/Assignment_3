@@ -8,4 +8,4 @@ This is a Secure Password generator
 Deployed application link: https://prakritirajbhandari.github.io/Password-Generator/.
 
 ![Alt text](./Screenshots/passwordGenerator.JPG)
-<img src="./Screenshots/passwordGenerator.JPG"/>
+<img src="./Screenshots/generator.PNG"/>
