@@ -7,4 +7,4 @@ This is a Secure Password generator
 
 Deployed application link: https://prakritirajbhandari.github.io/Password-Generator/.
 
-![Alt text](./Screenshots/passwordGenerator.JPG?raw=true "Optional Title")
+![Alt text](./Screenshots/passwordGenerator.JPG)
