@@ -1,4 +1,4 @@
-# Assignment_3 Secure Password Generator
+Secure Password Generator
 
 This is a Secure Password generator
 
